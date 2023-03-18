@@ -1,7 +1,7 @@
 # autohen
 Auto HEN Installer
 
-https://ps3addict.github.io/autohen
+https://github.com/UnknownGhostMods/autohen
 
 Currently installing HEN 3.2.0 on HFW 4.90
 
